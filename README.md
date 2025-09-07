@@ -116,3 +116,12 @@ export { AbrigoAnimais as AbrigoAnimais };
 Se todos os passos forem seguidos corretamente, você terá um repositório como o da figura abaixo (lembrando que é permitido criar mais arquivos), onde `seuUsername` é o seu usuário do GitHub, que você informou no questionário da Gupy.
 
 ![Exemplo de repositório](estrutura-repositorio.png)
+
+---
+
+## ✅ Resultado dos testes
+
+Todos os testes passaram com sucesso ✅  
+Cobertura de código: **93.87%** de linhas e **100%** de branches
+
+![Resultado dos testes](./teste-resultado.png)
